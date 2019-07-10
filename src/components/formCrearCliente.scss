@@ -1,0 +1,32 @@
+.crear-cliente {
+    width: 40%;
+    align-content: center;
+    padding: 30px;
+    box-sizing: border-box;
+    justify-content: center;
+
+    &__p {
+        font-size: 20px;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    &__input {
+        display: block;
+        margin: 20px 0;
+        width: 100%;
+        padding: 10px;
+        border-radius: 5px;
+        box-sizing: border-box;
+    }
+
+    &__submit {
+        display: block;
+        background-color: brown;
+        border: 1px solid brown;
+        border-radius: 5px;
+        color: white;
+        padding: 10px 30px;
+        float: right;
+    }
+}

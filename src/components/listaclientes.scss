@@ -1,0 +1,22 @@
+.lista-clientes {
+    padding: 30px;
+    text-align: center;
+
+    &__cabecera {
+        box-sizing: border-box;
+        margin: 5px 10px;
+        background-color: teal;
+        color: aliceblue;
+
+        &--text {
+            margin: 10px;
+            padding: 10px 20px;
+            text-transform: capitalize;
+        }
+    }
+
+    &__user {
+        border-bottom: 1px solid brown;
+        margin: 5px 10px;
+    }
+}

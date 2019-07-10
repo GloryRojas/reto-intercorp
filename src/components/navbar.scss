@@ -1,0 +1,11 @@
+.header {
+    text-align: center;
+
+    &__nav {
+
+        &--p{
+            display: inline-block;
+            margin: 10px 30px;
+        }
+    }
+}

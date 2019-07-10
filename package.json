@@ -2,16 +2,26 @@
   "name": "reto-intercorp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://gloryrojas.github.io/reto-intercorp/",
   "dependencies": {
+    "@firebase/firestore": "^1.4.3",
+    "firebase": "^6.2.4",
+    "gh-pages": "^2.0.1",
+    "materialize-css": "^1.0.0",
+    "node-sass": "^4.12.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-materialize": "^3.3.3",
+    "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"

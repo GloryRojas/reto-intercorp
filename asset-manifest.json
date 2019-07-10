@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reto-intercorp/static/css/main.f2c3949f.chunk.css",
+    "main.js": "/reto-intercorp/static/js/main.581d3523.chunk.js",
+    "main.js.map": "/reto-intercorp/static/js/main.581d3523.chunk.js.map",
+    "runtime~main.js": "/reto-intercorp/static/js/runtime~main.75b142f1.js",
+    "runtime~main.js.map": "/reto-intercorp/static/js/runtime~main.75b142f1.js.map",
+    "static/js/2.4ae8dd4c.chunk.js": "/reto-intercorp/static/js/2.4ae8dd4c.chunk.js",
+    "static/js/2.4ae8dd4c.chunk.js.map": "/reto-intercorp/static/js/2.4ae8dd4c.chunk.js.map",
+    "index.html": "/reto-intercorp/index.html",
+    "precache-manifest.0985eca49aef269ba94c449d0c33a82c.js": "/reto-intercorp/precache-manifest.0985eca49aef269ba94c449d0c33a82c.js",
+    "service-worker.js": "/reto-intercorp/service-worker.js",
+    "static/css/main.f2c3949f.chunk.css.map": "/reto-intercorp/static/css/main.f2c3949f.chunk.css.map"
+  }
+}
